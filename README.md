@@ -1,2 +1,5 @@
-# visualizacao-cientifica-a9
-Visualização científica com realidade aumentada.
+# Visualização científica com realidade aumentada.
+
+As páginas desenvolvidas para cada exercício:
+
+[Atividade 9a](./atividade9a.html)
